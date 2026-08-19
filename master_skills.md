@@ -1,1 +1,24 @@
+## 🎨 Graphic Design Skills
 
+- Typography — font pairing, readability, brand tone
+- Infographic Design — data visualization, icon systems
+- Color Theory — hue, saturation, contrast, palettes
+- Color Therapy / Emotional Color Mapping — mood-based color selection
+- Layout Design — spacing, alignment, balance
+- Visual Hierarchy — guiding the viewer’s eye
+- Composition — rule of thirds, symmetry, framing
+- Digital Aesthetic Design — vibe-based visual identity
+- Brand Style Matching — adapting to client brand tone
+- Texture‑Driven Design — grain, noise, paper, fabric textures
+- Pattern‑Driven Storytelling — repeating motifs, thematic patterns
+- Sticker & Emote Design — expressive icons, AAC-friendly visuals
+- MTCD Board Design — tile grids, spacing rules, export formats
+- Accessibility‑Focused Design — fibro emotes, clear icons, sensory-safe visuals
+- Iconography Systems — consistent icon sets, meaning clarity
+- Poster Design — focal points, typography hierarchy
+- Character Illustration — expressive micro-characters
+- Environmental Illustration — scenery, worldbuilding visuals
+- Color‑Coded Categorization — grouping by purpose or meaning
+- Aesthetic Fusion — mixing styles (Y2K × cyberpunk × pastel, etc.)
+- Template System Design — reusable layouts, modular design
+- Export Formatting — PNG, PDF, SVG, PSD/Procreate workflows
